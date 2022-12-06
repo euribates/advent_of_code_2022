@@ -7,4 +7,5 @@ More info about [Advent of code 2022](https://adventofcode.com/2022).
 - [Day 3: Rucksack Reorganization](./day03/day_03.ipynb)
 - [Day 4: Camp Cleanup](./day04/day_04.ipynb)
 - [Day 5: Supply Stacks](./day05/day_05.ipynb)
+- [Day 6: Tuning Trouble](./day06/day_05.ipynb)
 
