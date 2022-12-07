@@ -2,3 +2,5 @@ icecream
 ipython
 jupyterlab
 pytest
+pytest
+pytest
