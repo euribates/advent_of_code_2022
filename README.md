@@ -9,4 +9,5 @@ More info about [Advent of code 2022](https://adventofcode.com/2022).
 - [Day 5: Supply Stacks](./day05/day_05.ipynb)
 - [Day 6: Tuning Trouble](./day06/day_06.ipynb)
 - [Day 7: No Space Left In Device](./day07/day_07.ipynb)
+- [Day 8: Treetop Tree House](./day08/day_08.ipynb)
 
