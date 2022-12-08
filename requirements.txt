@@ -4,3 +4,4 @@ jupyterlab
 pytest
 pytest
 pytest
+cookiecutter
