@@ -15,3 +15,9 @@ More info about [Advent of code 2022](https://adventofcode.com/2022).
 Friend's repositories:
 
 - [Ricardo Cárdenes](https://github.com/rcardenes/aoc2022)
+- [Gian Luis Diana](https://github.com/gianluisdiana/AdventOfCode2022)
+- [José Alberto Pérez Melián](https://github.com/japmelian)
+- [Diego Díaz Morón](https://github.com/Diegodm35/AdventCode2022)
+- [Jacobo de Vera](https://github.com/jdevera)
+- [Lucas Hernández Abreu](https://github.com/lucashdez/AdventOfCode)
+- [Raúl](https://github.com/Rulox)
