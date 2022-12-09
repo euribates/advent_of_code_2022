@@ -10,7 +10,14 @@ More info about [Advent of code 2022](https://adventofcode.com/2022).
 - [Day 6: Tuning Trouble](./day06/day_06.ipynb)
 - [Day 7: No Space Left In Device](./day07/day_07.ipynb)
 - [Day 8: Treetop Tree House](./day08/day_08.ipynb)
+- [Day 10: Rope Bridge](./day09/day_09.ipynb)
 
 Friend's repositories:
 
 - [Ricardo Cárdenes](https://github.com/rcardenes/aoc2022)
+- [Gian Luis Diana](https://github.com/gianluisdiana/AdventOfCode2022)
+- [José Alberto Pérez Melián](https://github.com/japmelian)
+- [Diego Díaz Morón](https://github.com/Diegodm35/AdventCode2022)
+- [Jacobo de Vera](https://github.com/jdevera)
+- [Lucas Hernández Abreu](https://github.com/lucashdez/AdventOfCode)
+- [Raúl](https://github.com/Rulox)
