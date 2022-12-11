@@ -10,8 +10,9 @@ More info about [Advent of code 2022](https://adventofcode.com/2022).
 - [Day 6: Tuning Trouble](./day06/day_06.ipynb)
 - [Day 7: No Space Left In Device](./day07/day_07.ipynb)
 - [Day 8: Treetop Tree House](./day08/day_08.ipynb)
-- [Day 10: Rope Bridge](./day09/day_09.ipynb)
-- [Day 11: Cathode-Ray Tube](./day10/day_10.ipynb)
+- [Day 9: Rope Bridge](./day09/day_09.ipynb)
+- [Day 10: Cathode-Ray Tube](./day10/day_10.ipynb)
+- [Day 11: Monkey in the Middle](./day11/day_11.ipynb)
 
 Friend's repositories:
 

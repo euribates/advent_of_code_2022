@@ -5,3 +5,4 @@ pytest
 pytest
 pytest
 cookiecutter
+tqdm
