@@ -15,6 +15,7 @@ More info about [Advent of code 2022](https://adventofcode.com/2022).
 - [Day 11: Monkey in the Middle](./day11/day_11.ipynb)
 - [Day 12: Hill Climbing Algorithma](./day12/day_12.ipynb)
 - [Day 13: Distress Signal](./day13/day_13.ipynb)
+- [Day 14: Regolith Reservoir](./day14/day_13.ipynb)
 
 Friend's repositories:
 
