@@ -16,6 +16,7 @@ More info about [Advent of code 2022](https://adventofcode.com/2022).
 - [Day 12: Hill Climbing Algorithma](./day12/day_12.ipynb)
 - [Day 13: Distress Signal](./day13/day_13.ipynb)
 - [Day 14: Regolith Reservoir](./day14/day_14.ipynb)
+- [Day 15: Beacon Exclusion Zone](./day15/day_15.ipynb)
 
 Friend's repositories:
 
@@ -24,5 +25,9 @@ Friend's repositories:
 - [José Alberto Pérez Melián](https://github.com/japmelian)
 - [Diego Díaz Morón](https://github.com/Diegodm35/AdventCode2022)
 - [Jacobo de Vera](https://github.com/jdevera)
+- [Jesús Torres](https://github.com/jesustorresdev)
+- [Adrián Hernández](https://github.com/Adri-Hdez)
+- [José Rodríguez (Boriel)](https://github.com/boriel)
 - [Lucas Hernández Abreu](https://github.com/lucashdez/AdventOfCode)
 - [Raúl](https://github.com/Rulox)
+- [Raúl Martín](https://github.com/raul-martin-dev)
