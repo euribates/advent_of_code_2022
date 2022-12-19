@@ -17,6 +17,10 @@ More info about [Advent of code 2022](https://adventofcode.com/2022).
 - [Day 13: Distress Signal](./day13/day_13.ipynb)
 - [Day 14: Regolith Reservoir](./day14/day_14.ipynb)
 - [Day 15: Beacon Exclusion Zone](./day15/day_15.ipynb)
+- **Day 16: Proboscidea Volcanium**
+- **Day 17: Pyroclastic Flow**
+- [Day 18: Boiling Boulders](./day18/day_18.ipynb)
+
 
 Friend's repositories:
 
