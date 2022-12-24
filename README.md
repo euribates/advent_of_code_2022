@@ -20,6 +20,8 @@ More info about [Advent of code 2022](https://adventofcode.com/2022).
 - **Day 16: Proboscidea Volcanium**
 - **Day 17: Pyroclastic Flow**
 - [Day 18: Boiling Boulders](./day18/day_18.ipynb)
+- **Day 19: Not Enough Minerals**
+- [Day 20: Grove Positioning System](./day20/day_20.ipynb)
 
 
 Friend's repositories:
