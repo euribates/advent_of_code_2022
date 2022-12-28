@@ -13,7 +13,7 @@ More info about [Advent of code 2022](https://adventofcode.com/2022).
 - [Day 9: Rope Bridge](./day09/day_09.ipynb)
 - [Day 10: Cathode-Ray Tube](./day10/day_10.ipynb)
 - [Day 11: Monkey in the Middle](./day11/day_11.ipynb)
-- [Day 12: Hill Climbing Algorithma](./day12/day_12.ipynb)
+- [Day 12: Hill Climbing Algorithm](./day12/day_12.ipynb)
 - [Day 13: Distress Signal](./day13/day_13.ipynb)
 - [Day 14: Regolith Reservoir](./day14/day_14.ipynb)
 - [Day 15: Beacon Exclusion Zone](./day15/day_15.ipynb)
